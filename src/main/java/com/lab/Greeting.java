@@ -1,5 +1,5 @@
 package com.lab;
-
+/*hi */
 public class Greeting {
 
     private final long id;
